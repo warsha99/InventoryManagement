@@ -61,13 +61,13 @@ Name: InventoryDB
 
 ## 🔗 API Endpoints
 
-POST /api/Products
-GET /api/Products
-POST /api/Stock/in
-POST /api/Stock/out
-GET /api/Stock/summary
-GET /api/Stock/summary/{productId}
-GET /api/Stock/history/{productId}
+- POST /api/Products
+- GET /api/Products
+- POST /api/Stock/in
+- POST /api/Stock/out
+- GET /api/Stock/summary
+- GET /api/Stock/summary/{productId}
+- GET /api/Stock/history/{productId}
 
 ---
 
